@@ -17,18 +17,7 @@
 	<generator>Dropcaster 1.2.0</generator>
 	
   
-    <item>
-      <title>Fooled By Randomness - Part 8.mp3</title>
-      <itunes:author></itunes:author>
     
-      <itunes:image href=""/>
-      <enclosure url="http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%208.mp3" length="36866925" type="audio/mp3"/>
-      <link>http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%208.mp3</link>
-      <guid isPermaLink="false">60ef2ec78699bac6e3ec7bdbd4652e3b71370fd2</guid>
-      <pubDate>Thu, 21 Apr 2022 21:36:22 -0400</pubDate>
-      <itunes:duration>4608</itunes:duration>
-    
-    </item>
   
     <item>
       <title>Fooled By Randomness - Part 1.mp3</title>
@@ -40,6 +29,19 @@
       <guid isPermaLink="false">28c8ff94e248dca833e935f24830db6a9b391da6</guid>
       <pubDate>Thu, 21 Apr 2022 21:36:21 -0400</pubDate>
       <itunes:duration>4622</itunes:duration>
+    
+    </item>
+
+    <item>
+      <title>Fooled By Randomness - Part 2.mp3</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href=""/>
+      <enclosure url="http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%202.mp3" length="32631745" type="audio/mp3"/>
+      <link>http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%202.mp3</link>
+      <guid isPermaLink="false">32344c58e9d38887e64c17624eb7a81e48e6ed7c</guid>
+      <pubDate>Thu, 21 Apr 2022 21:36:21 -0400</pubDate>
+      <itunes:duration>4078</itunes:duration>
     
     </item>
   
@@ -55,17 +57,29 @@
       <itunes:duration>4603</itunes:duration>
     
     </item>
-  
+
     <item>
-      <title>Fooled By Randomness - Part 2.mp3</title>
+      <title>Fooled By Randomness - Part 4.mp3</title>
       <itunes:author></itunes:author>
     
       <itunes:image href=""/>
-      <enclosure url="http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%202.mp3" length="32631745" type="audio/mp3"/>
-      <link>http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%202.mp3</link>
-      <guid isPermaLink="false">32344c58e9d38887e64c17624eb7a81e48e6ed7c</guid>
+      <enclosure url="http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%204.mp3" length="36866507" type="audio/mp3"/>
+      <link>http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%204.mp3</link>
+      <guid isPermaLink="false">8873851c7985b6c68a414a2deb5debd33640c0d9</guid>
       <pubDate>Thu, 21 Apr 2022 21:36:21 -0400</pubDate>
-      <itunes:duration>4078</itunes:duration>
+      <itunes:duration>4608</itunes:duration>
+    
+    </item>
+    <item>
+      <title>Fooled By Randomness - Part 5.mp3</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href=""/>
+      <enclosure url="http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%205.mp3" length="36841848" type="audio/mp3"/>
+      <link>http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%205.mp3</link>
+      <guid isPermaLink="false">41e06808d19615ee7434ad7588b292afe1efe693</guid>
+      <pubDate>Thu, 21 Apr 2022 21:36:21 -0400</pubDate>
+      <itunes:duration>4605</itunes:duration>
     
     </item>
   
@@ -94,32 +108,21 @@
       <itunes:duration>4517</itunes:duration>
     
     </item>
-  
+
     <item>
-      <title>Fooled By Randomness - Part 5.mp3</title>
+      <title>Fooled By Randomness - Part 8.mp3</title>
       <itunes:author></itunes:author>
     
       <itunes:image href=""/>
-      <enclosure url="http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%205.mp3" length="36841848" type="audio/mp3"/>
-      <link>http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%205.mp3</link>
-      <guid isPermaLink="false">41e06808d19615ee7434ad7588b292afe1efe693</guid>
-      <pubDate>Thu, 21 Apr 2022 21:36:21 -0400</pubDate>
-      <itunes:duration>4605</itunes:duration>
-    
-    </item>
-  
-    <item>
-      <title>Fooled By Randomness - Part 4.mp3</title>
-      <itunes:author></itunes:author>
-    
-      <itunes:image href=""/>
-      <enclosure url="http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%204.mp3" length="36866507" type="audio/mp3"/>
-      <link>http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%204.mp3</link>
-      <guid isPermaLink="false">8873851c7985b6c68a414a2deb5debd33640c0d9</guid>
-      <pubDate>Thu, 21 Apr 2022 21:36:21 -0400</pubDate>
+      <enclosure url="http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%208.mp3" length="36866925" type="audio/mp3"/>
+      <link>http://alexhagen.github.io/pc/Fooled%20By%20Randomness%20-%20Part%208.mp3</link>
+      <guid isPermaLink="false">60ef2ec78699bac6e3ec7bdbd4652e3b71370fd2</guid>
+      <pubDate>Thu, 21 Apr 2022 21:36:22 -0400</pubDate>
       <itunes:duration>4608</itunes:duration>
     
     </item>
+  
+    
   
   </channel>
 </rss>
